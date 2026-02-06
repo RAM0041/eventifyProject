@@ -1,2 +1,3 @@
-![Project Preview](eventifyProject.png)
+![Project Preview](screenshots/eventifyProject.png)
+
 
