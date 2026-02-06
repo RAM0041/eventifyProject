@@ -1,1 +1,2 @@
-![Uploading eventifyProject.png…]()
+![Project Preview](eventifyProject.png)
+
